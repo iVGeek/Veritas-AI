@@ -14,6 +14,8 @@ Veritas AI is a comprehensive multi-modal deception detection system that combin
 - **Comprehensive Reporting**: Detailed analysis with confidence scores
 - **Question Management**: Built-in question bank management
 
+  
+
 ## Installation
 
 1. Clone the repository:
