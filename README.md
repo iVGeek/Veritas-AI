@@ -18,7 +18,7 @@ Veritas AI is a comprehensive multi-modal deception detection system that combin
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/veritas-ai.git
+git clone https://github.com/iVGeek/veritas-ai.git
 cd veritas-ai
 Install required dependencies:
 
