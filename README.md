@@ -41,8 +41,9 @@ Record Response: Click "Start Recording" to begin monitoring during the response
 
 Analyze: Click "Analyze Response" to get deception probability analysis
 
+
 System Architecture
-text
+'''
 Veritas AI/
 ├── Data Collection Layer
 │   ├── Physiological Sensors (HR, GSR)
@@ -55,6 +56,9 @@ Veritas AI/
 └── Presentation Layer
     ├── Real-time Visualization
     └── Comprehensive Reporting
+
+'''
+
 Technical Details
 Algorithms: Random Forest Classifier with feature engineering
 
@@ -63,6 +67,7 @@ Data Points: Heart rate variability, voice pitch analysis, skin conductance, res
 Accuracy: Synthetic data training with cross-validation
 
 Real-time Processing: 10Hz sampling rate with live visualization
+
 
 Ethical Considerations
 ⚠️ Important: This system is for educational and research purposes only. Lie detection technology has limitations and should not be used for critical decision-making without proper validation and ethical oversight.
