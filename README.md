@@ -20,15 +20,19 @@ Veritas AI is a comprehensive multi-modal deception detection system that combin
 ```bash
 git clone https://github.com/iVGeek/veritas-ai.git
 cd veritas-ai
+```
+
 Install required dependencies:
 
-bash
+```bash
 pip install -r requirements.txt
+```
 Usage
 Run the application:
 
-bash
+```bash
 python veritas_ai.py
+```
 Establish Baseline: Click "Establish Baseline" to calibrate the system for the subject
 
 Ask Questions: Select questions from the question bank and click "Ask Selected"
@@ -109,6 +113,7 @@ wheels/
 *.model
 CONTRIBUTING.md
 markdown
+```
 # Contributing to Veritas AI
 
 We welcome contributions! Please see our development guidelines and code standards.
