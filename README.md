@@ -45,29 +45,21 @@ Analyze: Click "Analyze Response" to get deception probability analysis
 
 ---
 ### System Architecture
-
+---
+```
 Veritas AI/
-
 ├── Data Collection Layer
-
-│   ├── Physiological Sensors (HR, GSR)
-
-│   ├── Audio Analysis (Voice Stress)
-
-│   └── Behavioral Analysis (Micro-expressions)
-
+│    ├── Physiological Sensors (HR, GSR)
+│    ├── Audio Analysis (Voice Stress)
+│    └── Behavioral Analysis (Micro-expressions)
 ├── Processing Layer
-
 │   ├── Feature Extraction
-
 │   ├── Baseline Comparison
-
 │   └── ML Classification
-
 └── Presentation Layer
-
     ├── Real-time Visualization
     └── Comprehensive Reporting
+```    
 ---
 ## Technical Details
 Algorithms: Random Forest Classifier with feature engineering
