@@ -45,7 +45,6 @@ Analyze: Click "Analyze Response" to get deception probability analysis
 
 ---
 ### System Architecture
----
 ```
 Veritas AI/
 ├── Data Collection Layer
