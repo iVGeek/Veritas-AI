@@ -70,7 +70,7 @@ Accuracy: Synthetic data training with cross-validation
 
 Real-time Processing: 10Hz sampling rate with live visualization
 
-
+---
 ## Ethical Considerations
 ⚠️ Important: This system is for educational and research purposes only. Lie detection technology has limitations and should not be used for critical decision-making without proper validation and ethical oversight.
 
