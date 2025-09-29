@@ -61,7 +61,7 @@ Veritas AI/
 
 '''
 
-Technical Details
+## Technical Details
 Algorithms: Random Forest Classifier with feature engineering
 
 Data Points: Heart rate variability, voice pitch analysis, skin conductance, response timing
@@ -71,25 +71,27 @@ Accuracy: Synthetic data training with cross-validation
 Real-time Processing: 10Hz sampling rate with live visualization
 
 
-Ethical Considerations
+## Ethical Considerations
 ⚠️ Important: This system is for educational and research purposes only. Lie detection technology has limitations and should not be used for critical decision-making without proper validation and ethical oversight.
 
 ---
 
-Contributing
+## Contributing
 Please read CONTRIBUTING.md for details on our code of conduct and the process for submitting pull requests.
 
 ---
-License
+## License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
 ---
 
-Citation
+## Citation
 If you use Veritas AI in your research, please cite:
 
 Veritas AI: A Multi-Modal Deception Detection Framework (2024)
-Support
+
+---
+### Support
 For technical support, please open an issue on GitHub or contact the development team.
 
 ---
