@@ -59,8 +59,6 @@ Veritas AI/
     ├── Real-time Visualization
     └── Comprehensive Reporting
 
-'''
-
 ## Technical Details
 Algorithms: Random Forest Classifier with feature engineering
 
