@@ -74,22 +74,25 @@ Real-time Processing: 10Hz sampling rate with live visualization
 Ethical Considerations
 ⚠️ Important: This system is for educational and research purposes only. Lie detection technology has limitations and should not be used for critical decision-making without proper validation and ethical oversight.
 
+---
+
 Contributing
 Please read CONTRIBUTING.md for details on our code of conduct and the process for submitting pull requests.
 
+---
 License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
+
+---
 
 Citation
 If you use Veritas AI in your research, please cite:
 
-text
 Veritas AI: A Multi-Modal Deception Detection Framework (2024)
 Support
 For technical support, please open an issue on GitHub or contact the development team.
 
-text
-
+---
 ## Additional Files
 
 ### `.gitignore`
@@ -126,12 +129,9 @@ markdown
 We welcome contributions! Please see our development guidelines and code standards.
 This complete lie detection system includes:
 
-Advanced GUI with real-time data visualization
-
-Multi-modal analysis (physiological, vocal, behavioral)
-
-Machine learning integration with Random Forest classifier
-
+1. Advanced GUI with real-time data visualization
+2. Multi-modal analysis (physiological, vocal, behavioral)
+3. Machine learning integration with Random Forest classifier
 Comprehensive documentation and GitHub-ready structure
 
 Ethical considerations and proper disclaimers
