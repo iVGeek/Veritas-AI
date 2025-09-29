@@ -43,9 +43,9 @@ Record Response: Click "Start Recording" to begin monitoring during the response
 
 Analyze: Click "Analyze Response" to get deception probability analysis
 
+---
+### System Architecture
 
-System Architecture
-'''
 Veritas AI/
 ├── Data Collection Layer
 │   ├── Physiological Sensors (HR, GSR)
